@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+
+Languages
+Python  JavaScript  C  C++  Go 
+
+Database
+Postgres  MySQL  MongoDb  SQLite
+
+Libraries and Frameworks
+Django  Numpy  Pandas  React  jQuery  GQL  Bootstrap  Sass
+
+Tools
+Git  Ubuntu  Docker  Vim  Jupyter  Conda  PyCharm  Visual Studio Code
+
+Design
+Adobe Photoshop  Figma  Canva
+
+
+
+
 <!--
 **MariusMomkus/MariusMomkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
