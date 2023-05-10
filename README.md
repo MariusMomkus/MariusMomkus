@@ -1,3 +1,6 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 <h1 align="center">Hello There 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariusmomkus&label=Profile%20views&color=0e75b6&style=flat" alt="mariusmomkus" /> </p>
 <a class="github-button" href="https://github.com/buttons" aria-label="Follow @buttons on GitHub">Follow @buttons</a>
