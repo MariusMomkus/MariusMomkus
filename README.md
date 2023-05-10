@@ -1,5 +1,6 @@
 <h1 align="center">Hello There 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariusmomkus&label=Profile%20views&color=0e75b6&style=flat" alt="mariusmomkus" /> </p>
+<a class="github-button" href="https://github.com/buttons" aria-label="Follow @buttons on GitHub">Follow @buttons</a>
  <img align= "right" width="400" alt="coding" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
