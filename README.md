@@ -27,8 +27,9 @@
 <h3 align="left">Design:</h3>
 <p align="left">  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  <a href="https://canvas.com" target="_blank" rel="noreferrer"> <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" alt="canva" width="40" height="40"/> </a> </p>
  
-<h3 align="left">Support Me:</h3>
+<!-- <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/itmariusmo4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/itmariusmo4" /></a><a href="https://ko-fi.com/mariusmomkus"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mariusmomkus" /></a></p><br><br>
 
 <h3 align="left"></h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariusmomkus&show_icons=true&locale=en&layout=compact" alt="mariusmomkus" /></p>
+ -->
